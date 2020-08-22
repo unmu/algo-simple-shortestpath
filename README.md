@@ -1,2 +1,5 @@
 # algo-simple-shortestpath
-just simple
+just simple 
+Python
+Dijkstra
+DBSCAN
