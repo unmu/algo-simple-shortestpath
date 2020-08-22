@@ -1,0 +1,1 @@
+var points = [{"lng": NaN, "lat": NaN, "count": 0}]

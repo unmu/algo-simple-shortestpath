@@ -1,0 +1,4 @@
+1. 运行inputMain.py
+2. 按照提示输入信息
+3. 运行完成后打开html/trajectory.html，可见计算轨迹
+4. over

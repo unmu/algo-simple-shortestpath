@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecff6e9e-efaa-405c-8467-88f8cd6df4a5" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d283Jpc9zHzii1WohVxg4QWtVj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\ShortestPath\html" />
+      <recent name="D:\PycharmProjects\ShortestPath\csv\segment\0204" />
+      <recent name="D:\PycharmProjects\ShortestPath\csv\segment\0203" />
+      <recent name="D:\PycharmProjects\ShortestPath\csv\segment" />
+      <recent name="D:\PycharmProjects\ShortestPath\csv" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\ShortestPath\csv\cluster\weekend" />
+      <recent name="D:\PycharmProjects\ShortestPath" />
+      <recent name="D:\PycharmProjects\ShortestPath\csv\map\weekend" />
+      <recent name="D:\PycharmProjects\ShortestPath\csv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.inputMain">
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ShortestPath/html/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="trajectory.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ShortestPath/html/trajectory.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="dbscan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ShortestPath" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dbscan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inputMain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ShortestPath" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inputMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tmptest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ShortestPath" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmptest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.inputMain" />
+        <item itemvalue="JavaScript Debug.trajectory.html" />
+        <item itemvalue="JavaScript Debug.test.html" />
+        <item itemvalue="Python.dbscan" />
+        <item itemvalue="Python.tmptest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecff6e9e-efaa-405c-8467-88f8cd6df4a5" name="默认更改列表" comment="" />
+      <created>1591611626301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591611626301</updated>
+      <workItem from="1591611628092" duration="2463000" />
+      <workItem from="1591666328922" duration="6804000" />
+      <workItem from="1591676517771" duration="5504000" />
+      <workItem from="1591685233131" duration="3773000" />
+      <workItem from="1591703666655" duration="1552000" />
+      <workItem from="1591774865466" duration="1528000" />
+      <workItem from="1592019624427" duration="2306000" />
+      <workItem from="1592038465249" duration="185000" />
+      <workItem from="1592043004547" duration="7856000" />
+      <workItem from="1592060712692" duration="2101000" />
+      <workItem from="1592097583923" duration="33180000" />
+      <workItem from="1592177042781" duration="21347000" />
+      <workItem from="1592211792828" duration="147000" />
+      <workItem from="1592213905799" duration="8002000" />
+      <workItem from="1592266352708" duration="15330000" />
+      <workItem from="1592376967639" duration="7092000" />
+      <workItem from="1592394812571" duration="1460000" />
+      <workItem from="1592616251106" duration="12000" />
+      <workItem from="1592880185125" duration="5392000" />
+      <workItem from="1592993504806" duration="1500000" />
+      <workItem from="1593596264299" duration="25000" />
+      <workItem from="1598068391293" duration="601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="22" key="#Inspections" timestamp="1592185487102">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="22" key="#Inspections/0.0.1280.720@0.0.1280.720" timestamp="1592185487102" />
+    <state x="474" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592107334299">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="474" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1592107334299" />
+    <state x="740" y="115" key="FileChooserDialogImpl" timestamp="1591776698000">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="740" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1591776698000" />
+    <state width="1237" height="66" key="GridCell.Tab.0.bottom" timestamp="1592922241322">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="66" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1592922241322" />
+    <state width="1237" height="66" key="GridCell.Tab.0.center" timestamp="1592922241322">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="66" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1592922241322" />
+    <state width="1237" height="66" key="GridCell.Tab.0.left" timestamp="1592922241322">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="66" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1592922241322" />
+    <state width="1237" height="66" key="GridCell.Tab.0.right" timestamp="1592922241322">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="66" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1592922241322" />
+    <state width="596" height="216" key="GridCell.Tab.1.bottom" timestamp="1591695118705">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="596" height="216" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1591695118705" />
+    <state width="596" height="216" key="GridCell.Tab.1.center" timestamp="1591695118704">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="596" height="216" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1591695118703" />
+    <state width="596" height="216" key="GridCell.Tab.1.left" timestamp="1591695118703">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="596" height="216" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1591695118703" />
+    <state width="596" height="216" key="GridCell.Tab.1.right" timestamp="1591695118704">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="596" height="216" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1591695118704" />
+    <state x="142" y="2" key="SettingsEditor" timestamp="1592204463484">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="2" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1592204463484" />
+    <state x="658" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1593596268489">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="658" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1593596268489" />
+    <state x="633" y="0" width="653" height="727" key="dock-window-1" timestamp="1592225813903">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="633" y="0" width="653" height="727" key="dock-window-1/0.0.1280.720@0.0.1280.720" timestamp="1592225813903" />
+    <state x="633" y="0" width="653" height="727" key="dock-window-2" timestamp="1592189054202">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="633" y="0" width="653" height="727" key="dock-window-2/0.0.1280.720@0.0.1280.720" timestamp="1592189054202" />
+    <state x="-7" y="0" width="652" height="727" key="dock-window-3" timestamp="1592191685955">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="-7" y="0" width="652" height="727" key="dock-window-3/0.0.1280.720@0.0.1280.720" timestamp="1592191685955" />
+    <state x="118" y="4" key="refactoring.ChangeSignatureDialog" timestamp="1592193089080">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="118" y="4" key="refactoring.ChangeSignatureDialog/0.0.1280.720@0.0.1280.720" timestamp="1592193089080" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1592292385083">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1592292385083" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ShortestPath$Dijkstra2.coverage" NAME="Dijkstra2 Coverage Results" MODIFIED="1592190476245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShortestPath$dijkstra.coverage" NAME="dijkstra Coverage Results" MODIFIED="1591666404672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShortestPath$dijkstraTest.coverage" NAME="dijkstraTest Coverage Results" MODIFIED="1592103535189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShortestPath$main.coverage" NAME="main Coverage Results" MODIFIED="1592144733389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShortestPath$AliMap.coverage" NAME="AliMap Coverage Results" MODIFIED="1591703909593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShortestPath$clustering.coverage" NAME="clustering Coverage Results" MODIFIED="1592130114982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShortestPath$coordTrans.coverage" NAME="coordTrans Coverage Results" MODIFIED="1592122590970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShortestPath$findNodeLatlon.coverage" NAME="findNodeLatlon Coverage Results" MODIFIED="1591685497215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShortestPath$tmptest.coverage" NAME="tmptest Coverage Results" MODIFIED="1592206224377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShortestPath$dbscan1.coverage" NAME="dbscan1 Coverage Results" MODIFIED="1591612393400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShortestPath$inputMain.coverage" NAME="inputMain Coverage Results" MODIFIED="1592919167672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShortestPath$dbscan.coverage" NAME="dbscan Coverage Results" MODIFIED="1592019650393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
